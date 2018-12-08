@@ -5,7 +5,7 @@ Snake Eyes is an artificial dataset for image analysis research. It was first pu
 
 ![Snake eyes data sample](https://github.com/nlw0/snake-eyes/blob/master/se-sample.png?raw=true)
 
-The images resamble thrown dice, but with modified patterns. They were produced by rendering a geometric model given only the paramerers of face, position and orientation of each die. 
+The images resamble thrown dice, but with modified patterns. They were produced by rendering a geometric model given only the parameters of face, position and orientation of each die. 
 
 ![Snake eyes data sample](https://github.com/nlw0/snake-eyes/blob/master/se-faces.png?raw=true)
 
