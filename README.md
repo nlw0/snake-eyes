@@ -1,7 +1,7 @@
 Snake Eyes
 ===
 
-Snake Eyes is an artificial dataset for image analysis research. It was first published at [Kaggle](https://www.kaggle.com/nicw102168/snake-eyes), where you may be able to find more information and useful discussions.
+Snake Eyes is an artificial dataset for image analysis research. It was first published at [Kaggle](https://www.kaggle.com/nicw102168/snake-eyes/home), where you may be able to find more information and useful discussions.
 
 ![Snake eyes data sample](https://github.com/nlw0/snake-eyes/blob/master/se-sample.png?raw=true)
 
